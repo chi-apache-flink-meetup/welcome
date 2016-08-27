@@ -1,6 +1,6 @@
 # Chicago Apache Flink Meetup
 
-We are a spin off of the previous Chicago Flink Meetup (disbanded).  This group focuses on creating demos, tutorials, making Flink more accessible for beginners, and sharing cool tricks and code among more advanced users.
+We are a spin off of the previous Chicago Flink Meetup.  This group focuses on creating demos, tutorials, making Flink more accessible for beginners, and sharing cool tricks and code among more advanced users.
 
 Official Meetup Page: [https://www.meetup.com/Chicago-Apache-Flink-Meetup-CHAF/](https://www.meetup.com/Chicago-Apache-Flink-Meetup-CHAF/)
 
